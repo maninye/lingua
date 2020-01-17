@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Lingua Unagi
 
-You can use the [editor on GitHub](https://github.com/maninye/lingua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Our Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this project, we want to help immigrants to the United States who speak English as an additional language. Our plan is to create a tool for non-native speakers to identify mistakes in their English writing that might be common in translation from their native language, perhaps as informed by crowdsourced submission with monitored review. We believe this tool will be able to especially help first-generation students in their graduate school applications and cover letters.
 
-### Markdown
+### Team Members
+- Michelle Aninye
+- Camila Y Cuesta Arcentales
+- Abhishek Pandit
+- Sydney Zink
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maninye/lingua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Deliverables
+[GP0](https://maninye.github.io/lingua)\
+GP1\
+GP2\
+GP3\
+GP4
