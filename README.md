@@ -1,2 +1,2 @@
-# lingua.github.io
+# lingua
 Lingua Project Website
