@@ -11,8 +11,8 @@ For this project, we want to help immigrants to the United States who speak Engl
 - Sydney Zink
 
 ### Deliverables
-[GP0](https://maninye.github.io/lingua)\
-GP1\
-GP2\
-GP3\
+[GP0](https://maninye.github.io/lingua)<br/>
+GP1<br/>
+GP2<br/>
+GP3<br/>
 GP4
