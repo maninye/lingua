@@ -12,4 +12,7 @@ For this project, we want to help immigrants to the United States who speak Engl
 
 ### Deliverables
 [GP0 |](https://maninye.github.io/lingua)   [GP1 Proposal |](https://drive.google.com/open?id=1rPW4vTr3eeZmGs4GRYjYHxumk4kDQsvQ) [GP1 Presentation |](https://docs.google.com/presentation/d/e/2PACX-1vSH__zUWJyR8WcQHPqdI8qXgLJuKHhflGzwy6icoVUTkcG93v6JzGcI3GN18yZMF6Sxy1ZZh0gPtpZ6/pub?start=false&loop=false&delayms=3000)  GP2 |   GP3 |  GP4
-|
+| 
+
+### Participants
+[Consent Form |](https://maninye.github.io/lingua/consent)
