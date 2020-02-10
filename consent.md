@@ -2,6 +2,7 @@
 layout: page
 title: "Consent Form"
 permalink: https://maninye.github.io/lingua/consent/
+
 ---
 
 # University of Chicago Online Consent Form for Research Participation
