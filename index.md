@@ -15,4 +15,4 @@ For this project, we want to help immigrants to the United States who speak Engl
 | 
 
 ### Participants
-[Consent Form |](https://maninye.github.io/lingua/consent)
+[View Consent Form](https://maninye.github.io/lingua/consent)
