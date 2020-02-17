@@ -11,7 +11,7 @@ For this project, we want to help immigrants to the United States who speak Engl
 - Sydney Zink
 
 ### Deliverables
-[GP0 |](https://maninye.github.io/lingua)   [GP1 Proposal |](https://drive.google.com/open?id=1rPW4vTr3eeZmGs4GRYjYHxumk4kDQsvQ) [GP1 Presentation |](https://docs.google.com/presentation/d/e/2PACX-1vSH__zUWJyR8WcQHPqdI8qXgLJuKHhflGzwy6icoVUTkcG93v6JzGcI3GN18yZMF6Sxy1ZZh0gPtpZ6/pub?start=false&loop=false&delayms=3000)  [GP2 |] (https://www.walmart.com/ip/Mainstays-Logan-Coffee-Table-Espresso-Finishes/176370330?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227080484708&wl0=&wl1=g&wl2=c&wl3=193138505174&wl4=pla-304418091976&wl5=9021720&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=176370330&veh=sem&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgLYhTyZHjnAzZwE2RhZGKo7bybI1WF85Y5kG13IKTHzG_e-xY1TUD8aAqltEALw_wcB)   GP3 |  GP4
+[GP0 |](https://maninye.github.io/lingua)   [GP1 Proposal |](https://drive.google.com/open?id=1rPW4vTr3eeZmGs4GRYjYHxumk4kDQsvQ) [GP1 Presentation |](https://docs.google.com/presentation/d/e/2PACX-1vSH__zUWJyR8WcQHPqdI8qXgLJuKHhflGzwy6icoVUTkcG93v6JzGcI3GN18yZMF6Sxy1ZZh0gPtpZ6/pub?start=false&loop=false&delayms=3000)  [GP2 |](https://www.walmart.com/ip/Mainstays-Logan-Coffee-Table-Espresso-Finishes/176370330?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227080484708&wl0=&wl1=g&wl2=c&wl3=193138505174&wl4=pla-304418091976&wl5=9021720&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=176370330&veh=sem&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgLYhTyZHjnAzZwE2RhZGKo7bybI1WF85Y5kG13IKTHzG_e-xY1TUD8aAqltEALw_wcB)   GP3 |  GP4
 | 
 
 ### Participants
